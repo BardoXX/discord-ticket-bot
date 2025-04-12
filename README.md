@@ -113,6 +113,3 @@ The modular structure makes it easy to add new features:
 
 ## License
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BardoXX/discord-ticket-bot/blob/main/LICENSE)
-
-
-[MIT](LICENSE)
